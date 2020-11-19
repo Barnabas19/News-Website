@@ -77,6 +77,9 @@ body{
     background-color: black;
     border: 1px solid white;
     border-radius: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .trending-one{
     width: 100%;
@@ -143,9 +146,6 @@ body{
     }
     .div{
         height: 20%;
-        display: flex;
-        align-items: center;
-        justify-content: center;
     }
     .link{
         flex: 0 0 15%;
